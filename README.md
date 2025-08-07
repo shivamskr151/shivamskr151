@@ -97,7 +97,7 @@ Containerize applications, configure pipelines (GitHub Actions / Jenkins), and s
 ### 🧠 Edge AI & Embedded Systems
 - **Hailo AI Accelerator**: Exploring deployment of deep learning models on Hailo-8 for low-power, high-efficiency edge inference
 - **Raspberry Pi for AI Workloads**: Setting up Raspberry Pi for real-time video processing, sensor integration, and smart camera applications
-- **YOLOv5 Optimization**: Running object detection models like YOLOv5 with quantization and hardware acceleration for edge inference
+- **YOLOv8 Optimization**: Running object detection models like YOLOv8 with quantization and hardware acceleration for edge inference
 - **Media Streaming & Processing**: Using tools like GStreamer, MediaMTX, and WebRTC to stream RTSP feeds and perform real-time analysis on embedded devices
 
 ## 🌟 What I'm Working On
