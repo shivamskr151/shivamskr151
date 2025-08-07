@@ -55,32 +55,7 @@ I'm a passionate software engineer focused on building modern web applications a
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## 🎯 Skills Showcase
 
-### 🏆 Achievements & Metrics
-- **Projects Completed**: 25+ Full-stack applications
-- **Technologies Mastered**: 10+ programming languages & frameworks
-- **Years of Experience**: 1.5+ years in software development
-- **Client Satisfaction**: 100% project completion rate
-
-### 🎨 Creative Portfolio Highlights
-```
-🎨 Design Projects
-├── UI/UX Prototypes (Figma)
-├── Interactive Wireframes
-└── User Flow Diagrams
-
-💻 Development Projects  
-├── PTZ Camera Management System
-├── React Polygon Drawing Tools
-├── Modern Web Applications
-└── REST/GraphQL APIs
-
-🔧 DevOps & Automation
-├── Docker Containerization
-├── CI/CD Pipelines
-└── Cloud Deployment
-```
 
 ### 🌟 Unique Skills
 - **Camera System Integration**: Specialized in PTZ camera control and management
