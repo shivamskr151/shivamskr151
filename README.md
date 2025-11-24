@@ -7,7 +7,7 @@
 
 ## 🎯 About Me
 
-**Software Engineer @ VariPhiGen** | Based in New Delhi, India
+**Software Engineer @ VariPhiGen** | Based in Noida, India
 
 I'm a passionate software engineer focused on building modern web applications and innovative solutions. With expertise in React, TypeScript, and various web technologies, I love creating user-friendly applications that solve real-world problems.
 
